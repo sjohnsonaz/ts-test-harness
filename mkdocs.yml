@@ -1,0 +1,7 @@
+site_name: TS Test Harness
+site_url: https://sjohnsonaz.github.io/ts-test-harness
+repo_url: https://github.com/sjohnsonaz/ts-test-harness
+copyright: Copyright &copy; 2017 Sean Johnson
+pages:
+    - Home: index.md
+theme: readthedocs
